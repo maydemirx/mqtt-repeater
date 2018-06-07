@@ -1,6 +1,6 @@
 # mqtt-repeater 
 
-[![Build Status](https://travis-ci.com/maydemirx/mqtt-repeater.svg?branch=master)](https://travis-ci.com/maydemirx/mqtt-repeater)
+[![Build Status](https://travis-ci.com/maydemirx/mqtt-repeater.svg?branch=master)](https://travis-ci.com/maydemirx/mqtt-repeater) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ae6a5415c684231a4befca6f0b0bbe0)](https://www.codacy.com/app/maydemirx/leaflet-tag-filter-button?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maydemirx/leaflet-tag-filter-button&amp;utm_campaign=Badge_Grade)
 
 This NodeJS application publishes messages from a mqtt broker to another mqtt broker. You can set the topic that you want to exchange by environment variables.
 
