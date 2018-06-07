@@ -1,4 +1,6 @@
-# mqtt-repeater
+# mqtt-repeater 
+
+[![Build Status](https://travis-ci.com/maydemirx/mqtt-repeater.svg?branch=master)](https://travis-ci.com/maydemirx/mqtt-repeater)
 
 This NodeJS application publishes messages from a mqtt broker to another mqtt broker. You can set the topic that you want to exchange by environment variables.
 
