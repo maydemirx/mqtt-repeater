@@ -1,6 +1,8 @@
 # mqtt-repeater 
 
-[![Build Status](https://travis-ci.com/maydemirx/mqtt-repeater.svg?branch=master)](https://travis-ci.com/maydemirx/mqtt-repeater)
+
+[![npm version](https://badge.fury.io/js/mqtt-repeater.svg)](https://badge.fury.io/js/mqtt-repeater)
+[![Build Status](https://travis-ci.com/maydemirx/mqtt-repeater.svg?branch=master)](https://travis-ci.com/maydemirx/mqtt-repeater) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf809192995b4fc782995c4e5a7d2e26)](https://www.codacy.com/app/maydemirx/mqtt-repeater?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maydemirx/mqtt-repeater&amp;utm_campaign=Badge_Grade) 
 
 This NodeJS application publishes messages from a mqtt broker to another mqtt broker. You can set the topic that you want to exchange by environment variables.
 
